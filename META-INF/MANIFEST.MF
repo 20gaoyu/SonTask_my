@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Cn.Boco.Manager.ThreadPoolManger
+Class-Path: ojdbc6.jar commons-net-3.1.jar mysql-connector-java-5.1.14.jar commons-logging-1.0.4.jar hive-jdbc-0.10.0-cdh4.2.0.jar hive-metastore-0.10.0-cdh4.2.0.jar hive-service-0.10.0-cdh4.2.0.jar libfb303-0.9.0.jar libthrift-0.9.0.jar log4j-1.2.16.jar slf4j-api-1.6.4.jar slf4j-log4j12-1.6.1.jar axis.jar axis-ant.jar commons-discovery-0.2.jar jaxrpc.jar saaj.jar wsdl4j-1.5.1.jar
+
